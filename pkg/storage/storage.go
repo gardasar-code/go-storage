@@ -1,7 +1,7 @@
 package storage
 
 import (
-	"github.com/gardasar-code/go-storage/internal/storage"
+	"github.com/gardasar-code/go-storage/v2/internal/storage"
 )
 
 func NewStorage() *storage.Storage {

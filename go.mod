@@ -1,4 +1,4 @@
-module github.com/gardasar-code/go-storage
+module github.com/gardasar-code/go-storage/v2
 
 go 1.22.0
 

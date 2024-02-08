@@ -2,7 +2,7 @@ package storage
 
 import (
 	"fmt"
-	"github.com/gardasar-code/go-storage/internal/file"
+	"github.com/gardasar-code/go-storage/v2/internal/file"
 	"github.com/google/uuid"
 )
 
