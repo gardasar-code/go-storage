@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/gardasar-code/storage/internal/file"
-	"github.com/gardasar-code/storage/internal/storage"
+	"github.com/gardasar-code/go-storage/internal/file"
+	"github.com/gardasar-code/go-storage/internal/storage"
 	"log"
 )
 
