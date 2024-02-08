@@ -11,7 +11,7 @@ func main() {
 	fmt.Println("hello")
 
 	st := storage.NewStorage()
-	fmt.Printf("%+m\n", st)
+	fmt.Printf("%+s\n", st)
 
 	file1, err := file.NewFile("file.txt", []byte("Hello"))
 	if err != nil {
